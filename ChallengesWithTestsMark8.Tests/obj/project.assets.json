@@ -5861,11 +5861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bengazzini/Documents/weeklyChallenges/weeklychallenges-bengazzini/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
+      "projectUniqueName": "/Users/bengazzini/Documents/repos/weeklyChallenges/weeklychallenges-bengazzini/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
       "projectName": "ChallengesWithTestsMark8.Tests",
-      "projectPath": "/Users/bengazzini/Documents/weeklyChallenges/weeklychallenges-bengazzini/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
+      "projectPath": "/Users/bengazzini/Documents/repos/weeklyChallenges/weeklychallenges-bengazzini/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
       "packagesPath": "/Users/bengazzini/.nuget/packages/",
-      "outputPath": "/Users/bengazzini/Documents/weeklyChallenges/weeklychallenges-bengazzini/ChallengesWithTestsMark8.Tests/obj/",
+      "outputPath": "/Users/bengazzini/Documents/repos/weeklyChallenges/weeklychallenges-bengazzini/ChallengesWithTestsMark8.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5882,8 +5882,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/bengazzini/Documents/weeklyChallenges/weeklychallenges-bengazzini/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
-              "projectPath": "/Users/bengazzini/Documents/weeklyChallenges/weeklychallenges-bengazzini/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj"
+            "/Users/bengazzini/Documents/repos/weeklyChallenges/weeklychallenges-bengazzini/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
+              "projectPath": "/Users/bengazzini/Documents/repos/weeklyChallenges/weeklychallenges-bengazzini/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj"
             }
           }
         }
